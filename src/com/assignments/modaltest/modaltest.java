@@ -31,7 +31,7 @@ public class modaltest {
 		// Used Simple conditional statements for Final Verification.
 		// Steps followed:
 		// 1. Invoked browser, 2. Since the object was present in different frame switched to the concern frame using the frame ID.
-		// 3. After accessing the frame found the elements for Modal and performed navigation on it (Modification here).
+		// 3. After accessing the frame found the elements for Modal and performed navigation on it.
 		
 		try {
 			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(delayTimerSec));
