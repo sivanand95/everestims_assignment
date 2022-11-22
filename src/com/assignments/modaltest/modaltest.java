@@ -55,7 +55,6 @@ public class modaltest {
 			Assert.fail("Test Execution is failed for an exception.");
 			System.out.println("Unable to execute the test! Some Exception is occured! Please check!!");
 			System.out.println(e);
-			System.out.println("MFCS Login message");
 		};
 	}
 	@BeforeTest
