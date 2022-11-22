@@ -28,7 +28,7 @@ public class modaltest {
 	public void traverseThroughModalWindow() {
 		
 		// Simple code to navigate between modal. 
-		// Used Simple conditional statements for Final Verification.
+		// Used Simple conditional statements for Final Verification (My name is Siva).
 		// Steps followed:
 		// 1. Invoked browser, 2. Since the object was present in different frame switched to the concern frame using the frame ID.
 		// 3. After accessing the frame found the elements for Modal and performed navigation on it.
