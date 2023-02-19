@@ -27,11 +27,8 @@ public class modaltest {
 	@Test
 	public void traverseThroughModalWindow() {
 		
-<<<<<<< HEAD
-		// Hai Simple code to navigate between modal ??. 
-=======
-		// Ha Simple code to navigate between modal. 
->>>>>>> 5e53a5a5d86c9ab6b97d5a076f93377b596f105f
+
+
 		// Used Simple conditional statements for Final Verification (My name is Siva).
 		// Steps followed:
 		// 1. Invoked browser, 2. Since the object was present in different frame switched to the concern frame using the frame ID.
